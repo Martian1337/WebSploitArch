@@ -27,7 +27,6 @@ L A B S      B Y     O M A R   S A N T O S
 https://websploit.org
 Author: Omar Ωr Santos
 Twitter: @santosomar
-Version: 3.2
 
 A collection of tools, tutorials, resources, and intentionally vulnerable 
 applications running in Docker containers. WebSploit Labs include 
